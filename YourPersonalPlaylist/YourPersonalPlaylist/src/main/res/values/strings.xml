@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Your Personal Playlist</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtSplash">My Playlist</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="txtQueen">Another One Bites the Dust</string>
+    <string name="txtZeppelin">Stairway to Heaven</string>
+    <string name="txtWho">Baba O\'Riley</string>
+    <string name="txtClearwater">Fortunate Son</string>
+    <string name="txtPlay">Play</string>
+    <string name="txtPause">Pause</string>
+    <string name="txtNext">&gt;</string>
+    <string name="txtPrevious">&lt;</string>
+    <string name="queen">Queen Image</string>
+    <string name="zepplin">Led Zepplin Image</string>
+    <string name="who">The Who Image</string>
+    <string name="clearwater">Creedence Clearwater Revival Image</string>
+
+</resources>

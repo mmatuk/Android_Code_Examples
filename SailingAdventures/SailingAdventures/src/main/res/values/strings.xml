@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sailing Adventures</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="imgSail">Sailing Image</string>
+    <string name="txtTile">Sailing Adventures - Kona, Hawaii</string>
+    <string name="txtDescription">Sailing adventures located at Kona Harbor on the Big Island in Hawaii, has a simple sailing philosophy - We Create Adventures! Our experience, expertise and knowledge of the high seas provide our customers with the best chance of having an enjoyable and profuctive sailing adventure. Select a date for your sailing day trip.</string>
+    <string name="btnDate">Select the Date for a Full-Day Sailing trip</string>
+</resources>

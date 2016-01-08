@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ScrollView1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fadingEdge="vertical|horizontal"
+    android:scrollbars="vertical|horizontal" >
+
+    <HorizontalScrollView
+        android:id="@+id/horizontalScrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+        
+        <TableLayout
+	        android:id="@+id/tableLayout1"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:isScrollContainer="true" >
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/imgBike"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/txtDescription"
+                android:padding="15sp"
+                android:src="@drawable/bike" />
+
+            <TextView
+                android:layout_width="700dp"
+                android:layout_height="wrap_content"
+                android:paddingRight="40sp"
+                android:text="@string/txtBike"
+                android:textSize="30sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/imgBarge"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/txtDescription"
+                android:padding="15sp"
+                android:src="@drawable/barge" />
+
+            <TextView
+                android:layout_width="700dp"
+                android:layout_height="wrap_content"
+                android:paddingRight="40sp"
+                android:text="@string/txtBarge"
+                android:textSize="30sp" />
+        </TableRow>
+
+        <TableRow>
+
+            <ImageView
+                android:id="@+id/imgBudapest"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@string/txtDescription"
+                android:padding="15sp"
+                android:src="@drawable/budapest" />
+
+            <TextView
+                android:layout_width="700dp"
+                android:layout_height="wrap_content"
+                android:paddingRight="40sp"
+                android:text="@string/txtBudapest"
+                android:textSize="30sp" />
+        </TableRow>
+    </TableLayout>
+        
+    </HorizontalScrollView>
+
+</ScrollView>

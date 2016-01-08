@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="net.androidbootcamp.amtrak.MainActivity$PlaceholderFragment" >
+
+    <TextView
+        android:id="@+id/textViewTitalMain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/txtTitleMain"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewTitalMain"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/txtImageDes"
+        android:src="@drawable/amtrak" />
+
+    <Button
+        android:id="@+id/buttonCalculate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:text="@string/btn" />
+
+    <TextView
+        android:id="@+id/textViewLength"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/buttonCalculate"
+        android:layout_marginBottom="32dp"
+        android:text="@string/txtTripLength"
+        android:textSize="20sp" />
+
+    <EditText
+        android:id="@+id/editTextLength"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textViewLength"
+        android:layout_alignParentRight="true"
+        android:layout_toRightOf="@+id/textViewLength"
+        android:ems="10"
+        android:hint="Length of trip"
+        android:inputType="number" >
+
+        <requestFocus />
+    </EditText>
+
+    <TextView
+        android:id="@+id/textViewHour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imageView2"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="10dp"
+        android:text="@string/txtHour"
+        android:textSize="15sp" />
+
+    <TextView
+        android:id="@+id/textViewBoarding"
+        android:layout_width="94dp"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewTitalMain"
+        android:layout_below="@+id/textViewHour"
+        android:layout_toLeftOf="@+id/textViewHour"
+        android:text="@string/txtBoard"
+        android:textSize="15sp" />
+
+    <Spinner
+        android:id="@+id/spnHour"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewMin"
+        android:layout_toLeftOf="@+id/textViewMin"
+        android:layout_toRightOf="@+id/textViewBoarding"
+        android:layout_weight="1" />
+
+    <TextView
+        android:id="@+id/textViewMin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/textViewBoarding"
+        android:layout_alignRight="@+id/textViewTitalMain"
+        android:layout_marginRight="16dp"
+        android:gravity="right"
+        android:text="@string/txtMin"
+        android:textSize="15sp" />
+
+    <Spinner
+        android:id="@+id/spnMin"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textViewMin"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textViewHour"
+        android:layout_weight="1" />
+
+</RelativeLayout>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <string name="app_name">Currency Conversion</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Convert Currency</string>
+    <string name="btnConvert">Convert</string>
+    <string name="radDollars">United States Dollars</string>
+    <string name="radEuros">European Euros</string>
+    <string name="radPesos">Mexican Pesos</string>
+    <string name="radCanDollars">Canadian Dollars</string>
+    <string name="txtSpinCurrency">Select Starting Currency</string>
+    <string name="txtViewEnding">To:</string>
+    <string-array name="txtCurrencyArray">
+        <item android:id="@+id/item1" android:layout_width="wrap_content" android:layout_height="wrap_content">US Dollars</item>
+        <item >Euros</item>
+        <item >Pesos</item>
+        <item >Canadian Dollars</item>
+    </string-array>
+    <string name="txtHint">Enter Amount</string>
+    <string name="txtPrompt">From:</string>
+
+</resources>

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\rotation.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\src\\main\\res\\anim\\rotation.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\WaveAnimation\\WaveAnimation\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

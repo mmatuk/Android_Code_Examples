@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Your Contacts App-Address Book</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtContact">Contacts</string>
+    <string name="txtContactJackson">Jackson, Michael</string>
+    <string name="txtContactJohnson">Johnson, Random</string>
+    <string name="title_activity_jackson">Jackson</string>
+
+    <string-array name="txtJacksonInfo">
+        <item>1234 Somewhere rd, Baltimore, MD 21222</item>
+        <item>1234Something@outlook.com</item>
+        <item>410-123-1456</item>
+    </string-array>
+    <string-array name="txtJohnsonInfo">
+        <item>1258 Happy Rd, Baltimore, MD 21222</item>
+        <item>IDoNotKnow123@outlook.com</item>
+        <item>456-485-4896</item>
+    </string-array>
+
+    <string name="txtJacksonAddress">123 SomeWhere Rd, Baltimore, MD 12345</string>
+    <string name="txtJacksonPhone">410-258-3698</string>
+    <string name="txtJacksonEmail">Something@outlook.com</string>
+    <string name="title_activity_johnson">Johnson</string>
+    <string name="txtJohnsonAddress">1234 Blah Rd, Baltimore, Md 21222</string>
+    <string name="txtJohnsonPhone">125-485-6987</string>
+    <string name="txtJohnsonEmail">IRanOutOfIdeas@outlook.com</string>
+
+</resources>

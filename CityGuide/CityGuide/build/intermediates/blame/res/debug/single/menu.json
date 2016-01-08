@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\build\\intermediates\\res\\merged\\debug\\menu\\trolley.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\src\\main\\res\\menu\\trolley.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\build\\intermediates\\res\\merged\\debug\\menu\\wharf.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\src\\main\\res\\menu\\wharf.xml"
+    },
+    {
+        "merged": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\build\\intermediates\\res\\merged\\debug\\menu\\bridge.xml",
+        "source": "Z:\\Users\\mjmat\\StudioProjects\\CityGuide\\CityGuide\\src\\main\\res\\menu\\bridge.xml"
+    }
+]

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Wild Ginger Dinner Delivery</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Wild Ginger Dinner Delivery</string>
+    <string name="txtImageDes">Picture of food.</string>
+    <string name="txtCookieDes">Ginger Cookies are aptly named, as they are both ginger colored and ginger flavored. They have a sugar coated crackly surface, and when you bite into one you will find the texture soft and chewy with a flavor that is buttery and spicy. The combination of molasses with ground cinnamon, ground ginger, and cloves makes eating one just about impossible. </string>
+	<string name="btnTime">Pick your Time</string>    
+	<string name="btnConfirm">Confirm</string>
+	<string name="txtConfim">CONFIRMED</string>
+</resources>

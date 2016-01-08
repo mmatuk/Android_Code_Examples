@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ClearJet Rewards</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtTitle">Frequent Flier Miles</string>
+    <string name="hint1">Name</string>
+    <string name="hint2">Miles Flown</string>
+    <string name="btnStatus">Find Status</string>
+    <string name="imgDescription">Status Level Image</string>
+    <string name="txtStatus">Reward Level</string>
+    <string name="title_activity_status">Status</string>
+
+</resources>
